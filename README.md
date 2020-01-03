@@ -1,5 +1,6 @@
 # **Analyzing the European Soccer Transfer Market**
-I'm choosing to analyze the European Soccer Transfer Market, where soccer players are bought and sold teams with the goal of improving results on the field. I've looked at the transfer activity of Europe’s Top 5 leagues (English Premier League, French Ligue 1, German Bundesliga, Italian Serie A, and Spanish La Liga) and have compared the transfer data to a team’s results on the field, ie: wins, losses, and draws. The data range spans from the 2010/2011 season to the 2018/2019 season.
+## **Click [right here](https://public.tableau.com/profile/sam.lawson#!/vizhome/EuropeanTransferMarket/generaldashboard?publish=yes) to see my Tableau presentation!**
+I'm choosing to analyze the European Soccer Transfer Market, where soccer players are bought and sold from one team to another with the goal of improving results on the field. I've looked at the transfer activity of Europe’s Top 5 leagues (English Premier League, French Ligue 1, German Bundesliga, Italian Serie A, and Spanish La Liga) and have compared the transfer data to a team’s results on the field, ie: wins, losses, and draws. The data range spans from the 2009-2010 season to the 2018-2019 season.
 ## Why do this?
 - I’m a soccer fan and the team I support, Liverpool, has recently become a trailblazer in the sport by using data analysis to find players in the transfer market. I thought I'd give it a go too!
 - You can tell a lot of interesting stories with this data! I'll be able to show how little known players helped floundering teams become champions, which teams are great at identifying up and coming talent, and which teams use the transfer market most effectively.
@@ -8,8 +9,8 @@ I'm choosing to analyze the European Soccer Transfer Market, where soccer player
 - What players had the biggest impact on their new team’s results after being transferred?
 ## Secondary Questions:
 - Which teams use the transfer market most effectively?
-- Which players provided the most value (low fee + good results) and what players provided the least value (high fee + bad results)?
-- Are there any specific instances that changed the market as a whole?
+- What positions do teams spend the most money on?
+- Does spending more money mean winning more?
 ## Data Sources
 - Player transfer data was found via [Transfermarkt.co.uk](https://www.transfermarkt.co.uk/)
 - Match data was found via [DataHub.io](https://datahub.io/collections/football#football-datasets-on-datahub)
