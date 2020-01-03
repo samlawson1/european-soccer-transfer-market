@@ -8,7 +8,7 @@ I'm choosing to analyze the European Soccer Transfer Market, where soccer player
 - What players had the biggest impact on their new team’s results after being transferred?
 ## Secondary Questions:
 - Which teams use the transfer market most effectively?
-- What positions are the most valuable positions?
+- What positions do teams spend the most money on?
 - Does spending more money mean winning more?
 ## Data Sources
 - Player transfer data was found via [Transfermarkt.co.uk](https://www.transfermarkt.co.uk/)
