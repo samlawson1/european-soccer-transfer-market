@@ -1,4 +1,5 @@
 # **Analyzing the European Soccer Transfer Market**
+## **Click the [right here](https://public.tableau.com/profile/sam.lawson#!/vizhome/EuropeanTransferMarket/generaldashboard?publish=yes) to see my Tableau presentations!**
 I'm choosing to analyze the European Soccer Transfer Market, where soccer players are bought and sold teams with the goal of improving results on the field. I've looked at the transfer activity of Europe’s Top 5 leagues (English Premier League, French Ligue 1, German Bundesliga, Italian Serie A, and Spanish La Liga) and have compared the transfer data to a team’s results on the field, ie: wins, losses, and draws. The data range spans from the 2009-2010 season to the 2018-2019 season.
 ## Why do this?
 - I’m a soccer fan and the team I support, Liverpool, has recently become a trailblazer in the sport by using data analysis to find players in the transfer market. I thought I'd give it a go too!
